@@ -1,5 +1,6 @@
 {
   "name": "@drippy/contracts",
+  "version": "0.1.0",
   "packageManager": "yarn@3.2.3",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
