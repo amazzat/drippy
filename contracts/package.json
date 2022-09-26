@@ -1,6 +1,8 @@
 {
   "name": "@drippy/contracts",
   "version": "0.1.0",
+  "types": "./typechain-types/index.ts",
+  "main": "./typechain-types/index.ts",
   "packageManager": "yarn@3.2.3",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",

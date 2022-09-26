@@ -1,5 +1,4 @@
 import { Routes } from "@blitzjs/next";
-import type { Lock } from "@drippy/contracts/typechain-types";
 import Link from "next/link";
 
 export default function Index() {
