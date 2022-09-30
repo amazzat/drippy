@@ -6,5 +6,8 @@
     "contracts",
     "web"
   ],
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "vercel": "^28.4.5"
+  }
 }
