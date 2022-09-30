@@ -8,10 +8,10 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY!;
 const config: HardhatUserConfig = {
   solidity: "0.8.17",
   networks: {
-    goerli: {
-      url: QUICKNODE_HTTP_URL,
-      accounts: [PRIVATE_KEY],
-    },
+    // goerli: {
+    //   url: QUICKNODE_HTTP_URL,
+    //   accounts: [PRIVATE_KEY],
+    // },
   },
 };
 
